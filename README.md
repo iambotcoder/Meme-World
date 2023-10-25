@@ -12,7 +12,6 @@ https://github.com/iambotcoder/Meme-World/assets/92924680/fe9f722e-40f5-4433-a39
 3. [Prerequisites](#prerequisites)
 4. [Usage](#usage)
 5. [Contributing](#contributing)
-6. [License](#license)
 
 ## Introduction
 
@@ -61,9 +60,5 @@ Contributions are welcome! If you'd like to enhance this project, add new featur
 2. Create a new branch for your feature or bug fix.
 3. Implement your changes and test them.
 4. Submit a pull request with a detailed description of your modifications.
-
-## License
-
-This project is licensed under the iambotcoder.
 
 ---
